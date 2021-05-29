@@ -1,4 +1,4 @@
-# Doguito Petshop: Creep :dog::hearts:
+# Doguito Petshop :dog::hearts:
 
 Projeto realizado durante o curso <a href="https://cursos.alura.com.br/course/javascript-crud-assincrono" target="_blank">JS na web: CRUD com JavaScript assíncrono</a> da <a href="https://www.alura.com.br/" target="_blank">Alura</a>.
 
